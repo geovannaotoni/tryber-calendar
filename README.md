@@ -1,8 +1,10 @@
 # Exercício Desafio Técnico: Calendário Tryber
 A partir de HTML, CSS e JavaScript, foi construido um calendário interativo do mês de Dezembro, que permite adicionar feriados, compromissos e tarefas.
+<img src="./trybe-calendar.png">
 
 ## :computer: Visualize este projeto:
-[Acesse o site pelo GitHub Pages aqui!](https://geovannaotoni.github.io/tryber-calendar/)
+Acesse o site pelo GitHub Pages aqui!
+[https://geovannaotoni.github.io/tryber-calendar/](https://geovannaotoni.github.io/tryber-calendar/)
 
 ## :bulb: Habilidades:
 Feito a partir dos conhecimentos de CSS, HTML, JavaScript, DOM e Eventos.
